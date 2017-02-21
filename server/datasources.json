@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MONGO": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "database": "indira",
+    "username": "",
+    "password": "",
+    "name": "MONGO",
+    "connector": "mongodb"
+  }
+}
