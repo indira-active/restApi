@@ -78,84 +78,84 @@
     "cancelled_at": {
       "type": "date"
     },
-    "cart_token":{
-      "type":"string"
+    "cart_token": {
+      "type": "string"
     },
-    "client_details":{
-      "type":"object"
+    "client_details": {
+      "type": "object"
     },
-    "customer":{
-      "type":"object"
+    "customer": {
+      "type": "object"
     },
-    "discount_codes":{
-      "type":"any"
+    "discount_codes": {
+      "type": "any"
     },
-    "fulfillments":{
-      "type":"any"
+    "fulfillments": {
+      "type": "any"
     },
-    "fulfillment_status":{
-      "type":"any"
+    "fulfillment_status": {
+      "type": "any"
     },
-    "tags":{
-      "type":"string" 
+    "tags": {
+      "type": "string"
     },
-    "order_id":{
-      "type":"number",
-      "description":"id value for shopify order object we will keep it as order_id to keep the auto-generated mongo object id"
+    "order_id": {
+      "type": "number",
+      "description": "id value for shopify order object we will keep it as order_id to keep the auto-generated mongo object id"
     },
-    "landing_site":{
-      "type":"string"
+    "landing_site": {
+      "type": "string"
     },
-    "line_items":{
-      "type":"any"
+    "line_items": {
+      "type": "any"
     },
-    "location_id":{
-      "type":"any"
+    "location_id": {
+      "type": "any"
     },
-    "name":{
-      "type":"any"
+    "name": {
+      "type": "any"
     },
-    "note_attributes":{
-      "type":"any"
+    "note_attributes": {
+      "type": "any"
     },
-    "order_number":{
-      "type":"any"
+    "order_number": {
+      "type": "any"
     },
-    "payment_gateway_names":{
-      "type":"any"
+    "payment_gateway_names": {
+      "type": "any"
     },
-    "processed_at":{
-      "type":"any"
+    "processed_at": {
+      "type": "any"
     },
-    "processing_method":{
-      "type":"string"
+    "processing_method": {
+      "type": "string"
     },
-    "referring_site":{
-      "type":"string"
+    "referring_site": {
+      "type": "string"
     },
-    "refunds":{
-      "type":"string"
+    "refunds": {
+      "type": "string"
     },
-    "shipping_address":{
-      "type":"any"
+    "shipping_address": {
+      "type": "any"
     },
-    "shipping_lines":{
-      "type":"array"
+    "shipping_lines": {
+      "type": "array"
     },
-    "source_name":{
-      "type":"string"
+    "source_name": {
+      "type": "string"
     },
-    "tax_lines":{
-      "type":"array"
+    "tax_lines": {
+      "type": "array"
     },
-    "total_line_items_price":{
-      "type":"number"
+    "total_line_items_price": {
+      "type": "number"
     },
-    "user_id":{
-      "type":"number"
+    "user_id": {
+      "type": "number"
     },
-    "order_status_url":{
-      "type":"string"
+    "order_status_url": {
+      "type": "string"
     }
   },
   "validations": [],

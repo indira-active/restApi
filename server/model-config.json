@@ -35,5 +35,9 @@
   "Order": {
     "dataSource": "MONGO",
     "public": true
+  },
+  "Account": {
+    "dataSource": "MONGO",
+    "public": true
   }
 }
